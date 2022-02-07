@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "@oadpoaw/react-sensor": "^1.4.2",
-    "@react-three/drei": "^7.25.3",
+    "@react-three/drei": "^8.8.3",
     "@react-three/fiber": "^7.0.21",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
